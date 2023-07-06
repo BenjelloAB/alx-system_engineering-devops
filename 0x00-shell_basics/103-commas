@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -lavXpm $(echo)
+ls -lmap1 . 
