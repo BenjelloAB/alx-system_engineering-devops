@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo hmod 740 ./hello
+sudo chmod u+x ./hello
