@@ -1,2 +1,2 @@
 #!/bin/bash
-chow julien:julien ./hello
+chmod 753 ./hello
