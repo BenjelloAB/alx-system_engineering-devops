@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# A script displays the PID of curr session
+
+echo $$
