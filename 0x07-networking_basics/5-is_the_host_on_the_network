@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+#ping the arg0
+
+if [ $# -eq 0 ]; then
+    echo "Usage: $0 {IP_ADDRESS}"
+    exit 1
+fi
+ping $1
