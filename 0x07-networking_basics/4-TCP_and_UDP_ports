@@ -1,4 +1,5 @@
-#!/bin/bash
+#!/usr/bin/env bash
 # a script to display listening sockets
 # with PID/progrma name
+
 netstat -lp
